@@ -19,7 +19,7 @@ Aquí presento trabajos que integran análisis, limpieza de datos, visualizació
 
 ---
 
-## 🚦 Accidentalidad Vehicular – Municipio de Tuluá
+## 🚦  triage
 https://github.com/alemano/triage-urgencias
 ## 🛠️ Herramientas utilizadas
 - Python
